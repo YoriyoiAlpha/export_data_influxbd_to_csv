@@ -1,5 +1,3 @@
-# export_data_influxbd_to_csv
-
 InfluxDB Data Export to CSV
 ============================
 
